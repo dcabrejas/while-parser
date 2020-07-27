@@ -1,0 +1,5 @@
+if true then 
+    name := 3 
+else 
+    name := 2 * 3
+
